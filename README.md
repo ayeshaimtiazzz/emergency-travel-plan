@@ -35,6 +35,8 @@ Enhances understanding of the graph structure.
 ## How to run:
 
 git clone https://github.com/your-username/emergency-travel-system.git
+
 g++ main.cpp -o emergency_travel_system
+
 ./emergency_travel_system
 
